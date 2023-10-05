@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    font-family:"Hanken Grotesk"
+}
+
+h2{margin: 0;}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@font-face {
+    font-family:"Hanken Grotesk";
+    src: url(./assets/fonts/HankenGrotesk-VariableFont_wght.ttf),url(./assets/fonts/static/HankenGrotesk-Bold.ttf),url(./assets/fonts/static/HankenGrotesk-ExtraBold.ttf),url(./assets/fonts/static/HankenGrotesk-Medium.ttf);
+}
+
